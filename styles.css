@@ -1,0 +1,74 @@
+* {
+    font-family: Helvetica;
+    text-decoration: none;
+}
+.title {
+    color: #000000;
+    font-size: 40px;
+} 
+.partone {
+    color: #2196f3;
+}
+.studio {
+    color: #000000;
+}
+.studio:hover {
+    color: #2196f3;
+}
+.port {
+    color: #000000;
+}
+.port:hover {
+    color: #2196f3;
+}
+.contacts {
+    color: #000000;
+}
+.contacts:hover {
+    color: #2196f3;
+}
+.email{
+    color: #757575;
+}
+.email:hover {
+    color: #2196f3;
+}
+.phone {
+    color: #757575;
+}
+.phone:hover {
+    color: #2196f3;
+}
+.secone {
+    background-color: #2f303a;
+}
+.textone {
+    color: #ffffff;
+}
+.test {
+    background-color: #2196f3;
+    color: #ffffffff;
+}
+.footer {
+    background-color: #2f303a;
+}
+
+.footerpart {
+    color: #2196f3;
+}
+.footera {
+    color: #ffffff;
+}
+.location {
+    color: #ffffff;
+}
+.emailtwo {
+    color: #757575;
+}
+.phonetwo {
+    color: #757575;
+}
+.button {
+    background-color: #2196f3;
+    color: #ffffff;
+}
