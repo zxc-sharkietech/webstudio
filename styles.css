@@ -1,0 +1,21 @@
+:root {
+    --title-color: #000000;
+    --partone-color: #2196f3;
+    --studio-color: #2196f3;
+    --port-color: #000000;
+    --contacts-color: #000000;
+    --email-color: #757575;
+    --phone-color: #757575;
+    --secone-background-color: #2f303a;
+    --textone-color: #ffffff;
+    --test-background-color: #2196f3;
+    --test-color: #ffffffff;
+    --footer-background-color: #2f303a;
+    --footerpart-color: #2196f3;
+    --footera-color: #ffffff;
+    --location-color: #ffffff;
+    --emailtwo-color: #757575;
+    --phonetwo-color: #757575;
+    --button-background-color: #2196f3;
+    --button-color: #ffffff;
+}
